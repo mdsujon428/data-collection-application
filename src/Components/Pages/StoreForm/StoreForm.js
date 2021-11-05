@@ -92,7 +92,7 @@ const StoreForm = () => {
                             />
                         </Grid>
                         <Grid item xs={12} md={12}>
-                            <Button type='submit' sx={{ width: '100%', py: 2, bgcolor: bgCyan, fontWeight: 600, fontSize: 18 }}>SUBMIT</Button>
+                            <Button type='submit' style={{background:'#18ffff'}} sx={{ width: '100%', py: 1,fontWeight: 600, fontSize: 18 }}>SUBMIT</Button>
                         </Grid>
 
                     </Grid>
